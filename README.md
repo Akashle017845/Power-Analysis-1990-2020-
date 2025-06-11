@@ -33,3 +33,4 @@ The World Energy Analysis project aims to create a comprehensive energy report f
 - Created comprehensive visualizations addressing each research question
 - Integrated all charts into a cohesive dashboard with interactive slicers for dynamic filtering
 - Applied consistent color schemes and annotations for clarity and impact
+
