@@ -36,3 +36,24 @@ The World Energy Analysis project aims to create a comprehensive energy report f
 
 # Dashboard 
 - Dashboard interactions <a href ="https://github.com/Akashle017845/Power-Analysis-1990-2020-/blob/main/Project%20no%20.1.pbix">view Dashboard<a/>
+
+# Project Insights
+
+- Europe leads in renewable adoption with 14.39% share, while Asia & Pacific shows explosive wind/solar growth (1,099 units by 2020)
+
+- China dominates global energy production (53K Mtoe) and coal consumption (75K Mt), significantly outpacing other countries
+
+- Asia & Pacific produces 110K Mt of coal, more than North America and Europe combined (30K Mt each)
+
+- Middle East leads crude oil production (30K Mt), while the United States tops oil consumption (24K Mt)
+
+- Coal utilization rates declining globally from 0.462 (1990) to 0.328 (2020), indicating a shift toward cleaner energy
+
+- CO₂ intensity improved significantly from 18.5 to 11.2 kCO₂/$15p, showing better energy efficiency
+
+- Global electricity production doubled from 10.8K TWh to 24.4K TWh, reflecting massive energy demand growth
+
+# Final Conclusion
+
+To accelerate global energy transition, strategic focus should be placed on supporting renewable energy expansion in Asia & Pacific and replicating Europe's successful renewable integration model in other regions. Given China's dominant position in both energy production and emissions, targeted collaboration with Chinese policymakers is crucial. The declining coal utilization rates and improving CO₂ intensity indicate positive momentum, but aggressive renewable investment and coal phase-out policies are essential to meet climate goals. Oil dependency reduction strategies should prioritize high-consumption regions like North America while leveraging the Middle East's production capacity for cleaner energy exports.
+
