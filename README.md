@@ -1,3 +1,4 @@
 ## World Energy Analysis (1990-2020) Dashboard (Interactive Dashboard creation using Power BI)
 
-Interactive Power BI dashboard analyzing global energy trends (1990–2020): electricity, renewables, coal, oil, and CO₂. Built using cleaned Excel data for clarity and accuracy. Visualizes regional and country insights for energy production, consumption, and emissions
+# Project Objective
+The World Energy Analysis project aims to create a comprehensive energy report for the period 1990-2020. This enables policymakers, energy analysts, and researchers to understand global energy trends, renewable adoption patterns, and emissions trajectories to make informed decisions for sustainable energy planning through 2025 and beyond.
