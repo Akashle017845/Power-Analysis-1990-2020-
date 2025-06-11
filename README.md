@@ -35,4 +35,4 @@ The World Energy Analysis project aims to create a comprehensive energy report f
 - Applied consistent color schemes and annotations for clarity and impact
 
 # Dashboard 
-- Dashboard interactions <a href ="https://github.com/Akashle017845/Power-Analysis-1990-2020-/blob/main/Screenshot%202025-06-11%20230246.png">view Dashboard<a/>
+- Dashboard interactions <a href ="https://github.com/Akashle017845/Power-Analysis-1990-2020-/blob/main/Project%20no%20.1.pbix">view Dashboard<a/>
