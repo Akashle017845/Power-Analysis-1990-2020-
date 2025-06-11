@@ -25,3 +25,11 @@ The World Energy Analysis project aims to create a comprehensive energy report f
 - Track oil dependency rates across different regions?
 
 - Percentage of renewables vs total electricity production?
+
+# Process
+
+- Verified data for missing values, anomalies, and inconsistencies across energy datasets
+- Ensured data consistency with respect to units (TWh, Mt, MtCO₂), formats, and regional classifications
+- Created comprehensive visualizations addressing each research question
+- Integrated all charts into a cohesive dashboard with interactive slicers for dynamic filtering
+- Applied consistent color schemes and annotations for clarity and impact
